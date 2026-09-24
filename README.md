@@ -11,9 +11,6 @@ write tests for it, and run them to prove the code works.
 | `test_validators.py` | Unit tests for `validators.py` |
 | `demo.py` | Runs quick checks + all tests and prints a QA result |
 
-## Requirements
-
-Python 3.8 or newer. No extra installs.
 
 ## How to run
 
@@ -37,8 +34,5 @@ and finally:
 ```
 QA RESULT: ALL GOOD
 ```
-
-
-def test_my_new_case(self):
     self.assertTrue(is_valid_email("me@site.co.za"))
 ```
