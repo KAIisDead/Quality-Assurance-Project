@@ -50,5 +50,3 @@ A healthy run ends with:
 ```
 QA RESULT: ALL GOOD
 ```
-Good habit: for every function, write at least one normal test, one bad
-input test, and one edge case test.
