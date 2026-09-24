@@ -1,4 +1,4 @@
-# Simple QA Project
+# Simple Quality Assurance Project
 
 A small project that shows what quality assurance (QA) is by doing it:
 write some code, write tests that check it, and run them to prove it works.
